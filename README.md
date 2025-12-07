@@ -23,4 +23,4 @@ DAX (Data Analysis Expressions) : Used for calculated measures, dynamic visuals,
 6. Interactive Filters
 7. Clean and User-Friendly Visual Layout
 
-6.Screenshot :
+6.Screenshot : https://github.com/daneshwaribagi16/Chocolate_sales_data/blob/main/Choco_data_pi.PNG
